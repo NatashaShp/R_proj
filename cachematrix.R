@@ -1,7 +1,3 @@
-# I found an easy test script from the discussion forum of coursea.
-# https://class.coursera.org/rprog-005/forum/thread?thread_id=140
-# Cheers!
-
 # This function creates a special "matrix" object
 # that can cache its inverse.
 
